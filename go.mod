@@ -1,4 +1,4 @@
-module gpt-3-encoder
+module github.com/pullpo-io/gpt3-encoder
 
 go 1.18
 
