@@ -11,7 +11,7 @@ This code was inspired by [Javascript implementation](https://github.com/latitud
 ## Install
 
 ```bash
-go get github.com/samber/pullpo-io/gpt-3-encoder
+go get github.com/pullpo-io/gpt-3-encoder
 ```
 
 ## Usage
